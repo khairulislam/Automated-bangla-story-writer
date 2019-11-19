@@ -6,3 +6,9 @@ writers: rabindranath Tagore and Humayun Ahmed.
 
 Note that the models aren't trained much to reduce overfiting, as the dataset
 is pretty small.
+
+## Humayun AI
+![](Humayun%20ai/dorojar%20opashe.jpg)
+
+## Rabindra AI
+![](Rabindra%20ai/chokher%20bali.jpg)
